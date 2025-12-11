@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juli-Konstanta
 - 👀 I’m interested in development,cybersecurity and research
-- 🌱 I’m currently learning React,Bootstrap5,Python, CS
+- 🌱 I’m currently learning React,Bootstrap5,Python
 - 💞️ I’m looking to collaborate on ... still on progress 
 - 📫 How to reach me 
 - 😄 Pronouns: piuPiu
